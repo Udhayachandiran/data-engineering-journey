@@ -1,0 +1,4 @@
+{"ride_id": "R-101", "bike_model": "CB300R-SpartanRed", "date": "2026-04-26", "telemetry": {"max_speed": 0, "tilt_angle": 85, "engine_status": "OFF"}, "warnings": ["PARKED_TIP_OVER", "COSMETIC_DAMAGE"]}
+{"ride_id": "R-102", "bike_model": "CB300R-SpartanRed", "date": "2026-04-27", "telemetry": {"max_speed": 45, "tilt_angle": 15, "engine_status": "ON"}, "warnings": []}
+{"ride_id": "R-103", "bike_model": "CBR650R", "date": "2026-04-26", "telemetry": {"max_speed": 120, "tilt_angle": 40, "engine_status": "ON"}, "warnings": ["HIGH_RPM", "ABS_ENGAGED"]}
+{"ride_id": "R-104", "bike_model": "CB300R-SpartanRed", "date": "2026-05-02", "telemetry": {"max_speed": 82, "tilt_angle": 22, "engine_status": "ON"}, "warnings": []}
